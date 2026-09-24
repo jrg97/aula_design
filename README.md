@@ -2,7 +2,7 @@
 Calculo de média de duas notas de alunos
 
 ## Tecnologias Utilizadas ##
-Python 3.14
+Python 3.13
 
 ## Como instalar e executar ##
 Pode ser executado em qualquer máquina que tenha Python instalado.
